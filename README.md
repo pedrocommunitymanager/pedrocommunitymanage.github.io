@@ -1,2 +1,2 @@
 # pedrocommunitymanage.github.io
-Meu portfolio de Community Manager
+This is my community manager portfolio
